@@ -28,7 +28,7 @@ body {
 
 /* Jumbotron */
 .jumbotron {
-    background: url('photos/169.JPG') no-repeat center center;
+    background: url('169.JPG') no-repeat center center;
     background-size: cover;
     color: rgb(0, 0, 0);
     height: 85vh; /* Full viewport height */
